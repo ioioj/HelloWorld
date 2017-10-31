@@ -1,2 +1,2 @@
 # HelloWorld
-HelloWorld in Go
+HelloWorld in Golang?
